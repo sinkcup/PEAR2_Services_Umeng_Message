@@ -3,8 +3,8 @@ require_once __DIR__ . '/../../../autoload.php';
 class MessageTest extends PHPUnit_Framework_TestCase
 {
     private $conf = array(
-        'appkey'            => '512b2ee35270154655000067',
-        'app_master_secret' => 'emedqixqou6ijwb6wzni8cwfrnkiuptd',
+        'appkey'            => '', //按照友盟后台填写
+        'app_master_secret' => '', //按照友盟后台填写
     );
 
     public function testSendLbsNotification()

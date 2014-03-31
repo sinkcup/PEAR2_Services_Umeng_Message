@@ -3,6 +3,8 @@ PEAR2_Services_Umeng_Message
 
 PHP PEAR2 package for Umeng message ( http://dev.umeng.com/message )
 
+友盟消息推送 PHP PEAR2 SDK
+
 
 频道
 ----
@@ -23,6 +25,12 @@ PHP PEAR2 package for Umeng message ( http://dev.umeng.com/message )
 ----
 
 请看examples/
+
+
+测试
+----
+
+请看tests/
 
 
 参考资料
